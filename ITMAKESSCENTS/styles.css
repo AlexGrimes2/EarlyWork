@@ -1,0 +1,35 @@
+body {
+    background-image:
+}
+banner {
+   position:relative;
+    z-index: 0;
+    height: 100vh;
+  }
+
+body {background-color: #a6dcef;
+   background-image: "C:\Users\ag2mn\Documents\WEB DEVELOPMENT\ITMAKESSCENTS\IMG_4136.jpg";}
+
+
+div{
+  height: 50%;
+  width: 50%;
+  padding: 10px 10px 10px 10px;
+background-color: #b7efcd;
+box-shadow: 10px 10px 5px grey;
+margin-top: 100px;
+}
+
+hr {background-color: white;
+  boarder-style: dotted;
+height: 2px;
+width: 30%;
+}
+
+header {background-color: #f2aaaa;
+   position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    z-index: 1;
+  }
